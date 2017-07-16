@@ -1,6 +1,9 @@
 # SolidAngularSeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+There was installed [solid.js](https://github.com/solid/solid-client) version 0.24.3.
+
+Added solid.js example in app.component.ts
 
 ## Development server
 
