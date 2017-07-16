@@ -5,6 +5,11 @@ There was installed [solid.js](https://github.com/solid/solid-client) version 0.
 
 Added solid.js example in app.component.ts
 
+Repo includes node_modules directory because of manual fixes:
+
+* solid-client/src/meta.js:6 (added '.json' extension into require)
+* xmlhttprequest/lib/XMLHttpRequest:15 (commented out require of removed package 'child_process')
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
