@@ -454,6 +454,6 @@ module.exports = {
     'text-encoding': 'TextEncoder',
     'urlutils': 'URL',
     'webcrypto': 'crypto',
-    'solid-client': 'Solid'
+    'solid-client': 'SolidClient'
   }
 };
